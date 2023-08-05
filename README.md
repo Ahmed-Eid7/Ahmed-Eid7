@@ -10,13 +10,9 @@
 
 I'm a Frontend Web Developer based in Egypt. I'm passionate about Programming.
 
-## 🔭 What I'm currently working on
-
-[Describe your current projects and what you're working on]
-
 ## 🌱 What I'm currently learning
 
-[Describe what you're learning right now and what you hope to achieve]
+[Learning React]
 
 ## 📫 How to reach me
 
